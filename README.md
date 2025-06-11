@@ -24,3 +24,7 @@ This mini-project demonstrates how DNS-level filtering can be enforced system-wi
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/9c379772-2874-4c6a-bfa0-911ff6b73a97" />
 
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/00ec0462-634d-41d4-a02f-696df9b8453c" />
+
+### Similar Project(s)-Arch From Scratch
+
+https://github.com/ProjectTSAP/ArchLinux-From-Scratch

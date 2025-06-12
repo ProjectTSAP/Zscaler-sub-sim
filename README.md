@@ -17,6 +17,8 @@ This mini-project demonstrates how DNS-level filtering can be enforced system-wi
 - Firefox browser
 - systemd
 
+<img width="1470" alt="Screenshot 2025-06-12 at 01 02 28" src="https://github.com/user-attachments/assets/f4e0d0f8-0544-481c-b98e-8a40b7ffc7fd" />
+
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4b787bf5-d32d-4c5c-bde1-a0e296a89935" />
 
 <img width="1470" alt="Screenshot 2025-06-11 at 21 24 32" src="https://github.com/user-attachments/assets/e149cf06-2ef6-46cd-bf6d-69f92a118645" />
